@@ -1,5 +1,9 @@
 body {
-  background-color: blanchedalmond;
+  
+  background-image: url("images/pet-background-gold.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  
 }
 h1 {
   text-align: center;
@@ -12,10 +16,16 @@ p {
   font-family: 'Courier New', Courier, monospace;
 
 }
+h9 {
+  text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 ul {
   line-height: 30px;
   font-weight: 200;
+  text-align: center;
 }
+
 .img {
   display: block;
   margin-left: auto;
